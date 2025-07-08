@@ -2,6 +2,8 @@
 
 ## About Me
 - Software Engineer for fun 👨🏽‍💻
+- Functional Programming fanatic λ
+- I'm currently learning Rust
 
 <!--
 **v3nkat3shk/v3nkat3shk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
